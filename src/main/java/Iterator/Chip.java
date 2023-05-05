@@ -2,7 +2,7 @@ package Iterator;
 
 import java.util.Iterator;
 
-public class Chip {
+public abstract class Chip extends Celular {
     public static Integer contarTotalContatosCelular(Celular celular) {
         int quantidade = 0;
         for (Iterator a = celular.iterator(); a.hasNext(); ) {
