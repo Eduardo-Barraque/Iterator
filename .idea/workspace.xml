@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c989c12-81a3-4f05-8a34-cf9f1d7ec53d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterator/Celular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterator/Chip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Iterator/Contato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Iterator/ChipTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="1c989c12-81a3-4f05-8a34-cf9f1d7ec53d" name="Changes" comment="Iterator Method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,8 +72,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683298063665</updated>
-      <workItem from="1683298064943" duration="5116000" />
+      <workItem from="1683298064943" duration="5839000" />
     </task>
+    <task id="LOCAL-00001" summary="Iterator Method">
+      <created>1683304538199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683304538199</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +97,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Iterator Method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iterator Method" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Iterator$ChipTest_deveContarTotalContatosChip.ic" NAME="ChipTest.deveContarTotalContatosChip Coverage Results" MODIFIED="1683304417521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Iterator.*</FILTER>
+    </SUITE>
   </component>
 </project>
